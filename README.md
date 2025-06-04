@@ -1,8 +1,8 @@
-# Portfólio de Projetos — Herbert Carvalho
+# Portfólio de Projetos: Herbert Carvalho
 
 Bem-vindo ao meu portfólio de projetos em Ciência e Análise de Dados!
 
-Atualmente, estou em transição de carreira com foco no mercado de Dados, buscando atuar como Cientista ou Analista de Dados Pleno. Trago uma bagagem profissional sólida em atendimento ao cliente, marketing digital e vendas — experiências que despertaram meu interesse por comportamento do usuário, performance de campanhas e análise de dados. Hoje, transformo essa vivência prática em soluções analíticas com impacto real.
+Atualmente, estou em transição de carreira com foco no mercado de Dados, buscando atuar como Cientista ou Analista de Dados Pleno. Trago uma bagagem profissional sólida em atendimento ao cliente, marketing digital e vendas. Experiências que despertaram meu interesse por comportamento do usuário, performance de campanhas e análise de dados. Hoje, transformo essa vivência prática em soluções analíticas com impacto real.
 
 ---
 
