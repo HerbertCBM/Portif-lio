@@ -60,5 +60,7 @@ Busco atuar de forma estratégica, entendendo o contexto do negócio, modelando 
 
  [GitHub: @HerbertCBM](https://github.com/HerbertCBM)
 
-ULTIMA ATUALIZAÇÃO 03/06/25
+
+Atualização
+03/06/25
 ---
