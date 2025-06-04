@@ -1,5 +1,5 @@
 
-# Portfólio de Projetos - Herbert C. B.
+# Portfólio de Projetos - Herbert Carvalho
 
 Bem-vindo ao meu portfólio de projetos em Ciência e Análise de Dados!
 
