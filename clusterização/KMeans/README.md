@@ -4,13 +4,13 @@ Este projeto utiliza clusterização para identificar grupos de clientes com pad
 
 Após explorar os dados com testes estatísticos e análise descritiva, aplicamos pré-processamento com técnicas adequadas de escalonamento e codificação. Em seguida, usamos o algoritmo KMeans combinado com otimização de hiperparâmetros via Optuna para encontrar a segmentação mais coerente.
 
-## 📌 Objetivos
+### Objetivos
 
 - Agrupar clientes com características semelhantes
 - Avaliar o impacto da inovação e idade sobre o faturamento
 - Descobrir perfis estratégicos para ações de marketing e produto
 
-## 🔍 Principais Resultados
+### Principais Resultados
 
 - Cluster 0: clientes jovens com receita média
 - Cluster 1: clientes mais velhos e com baixo consumo
@@ -18,7 +18,7 @@ Após explorar os dados com testes estatísticos e análise descritiva, aplicamo
 
 Esses perfis foram identificados com base na análise cruzada entre idade, inovação e faturamento, revelando insights relevantes para personalização e estratégias comerciais.
 
-## 🚀 Tecnologias
+### Tecnologias
 
 - Python
 - Pandas, Scikit-learn
@@ -27,7 +27,7 @@ Esses perfis foram identificados com base na análise cruzada entre idade, inova
 - Seaborn, Plotly
 - Jupyter Notebook
 
-## 🔭 Próximos Passos
+### Próximos Passos
 
 - Incorporar variáveis de comportamento de compra
 - Testar modelos hierárquicos e density-based (DBSCAN, HDBSCAN)
