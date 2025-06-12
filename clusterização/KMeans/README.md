@@ -56,7 +56,7 @@ Nosso desafio atual é expandir o uso de soluções digitais entre os clientes P
 
 ---
 
-### Cluster 1 – Zona de Transição
+### Cluster 2 – Zona de Transição
 - **Inovação média**: 5.1
 - Perfil intermediário
 - Predominância em **São Paulo**
