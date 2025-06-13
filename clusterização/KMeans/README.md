@@ -32,7 +32,7 @@ Nosso desafio atual é expandir o uso de soluções digitais entre os clientes P
 
 ## Perfis Identificados (Clusters)
 
-### Cluster 1 – Inovadores Prontos
+### Cluster 1 – Premium Inovador
 - **Inovação média**: 8.0
 - **Faturamento mais alto**
 - **Base predominante: Vitória**
@@ -44,7 +44,7 @@ Nosso desafio atual é expandir o uso de soluções digitais entre os clientes P
 
 ---
 
-### Cluster 0 – Tradicionais Resistentes
+### Cluster 0 – Tradicional Conservador
 - **Inovação média**: 1.5
 - Faturamento alto
 - Predominância no **Rio de Janeiro**
@@ -56,7 +56,7 @@ Nosso desafio atual é expandir o uso de soluções digitais entre os clientes P
 
 ---
 
-### Cluster 2 – Zona de Transição
+### Cluster 2 – Expansivo Econômico
 - **Inovação média**: 5.1
 - Perfil intermediário
 - Predominância em **São Paulo**
